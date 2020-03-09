@@ -19,7 +19,7 @@ from argparse import RawTextHelpFormatter
 
 # +++your code here+++
 # Write functions and modify main() to call them
-__author__ = "Sarah Gale"
+__author__ = "Sarah Gale, Tiffany McLean, & Delvric Tezeno"
 
 
 def is_special_path(a_path):
